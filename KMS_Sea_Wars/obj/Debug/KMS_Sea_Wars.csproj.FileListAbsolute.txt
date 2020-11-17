@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\KMS_Sea_Wars\bin\Debug\KMS_Sea_Wars.exe.config
+C:\Users\Home\source\repos\KMS_Sea_Wars\bin\Debug\KMS_Sea_Wars.exe
+C:\Users\Home\source\repos\KMS_Sea_Wars\bin\Debug\KMS_Sea_Wars.pdb
+C:\Users\Home\source\repos\KMS_Sea_Wars\obj\Debug\KMS_Sea_Wars.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\KMS_Sea_Wars\obj\Debug\KMS_Sea_Wars.Form1.resources
+C:\Users\Home\source\repos\KMS_Sea_Wars\obj\Debug\KMS_Sea_Wars.Properties.Resources.resources
+C:\Users\Home\source\repos\KMS_Sea_Wars\obj\Debug\KMS_Sea_Wars.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\KMS_Sea_Wars\obj\Debug\KMS_Sea_Wars.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\KMS_Sea_Wars\obj\Debug\KMS_Sea_Wars.exe
+C:\Users\Home\source\repos\KMS_Sea_Wars\obj\Debug\KMS_Sea_Wars.pdb
